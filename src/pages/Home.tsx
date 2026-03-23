@@ -15,8 +15,7 @@ interface Student {
 
 type Subject = "d" | "i" | "s" | "c";
 
-const API_URL =
-"https://script.google.com/macros/s/AKfycbzX0AndNZR9BI2XrMMrxWJnaUmm-pgcq6G8ItZSOx5pU-C3TVUUmbbxBm10BCLCTUUCuw/exec"
+const API_URL = "https://script.google.com/macros/s/AKfycbw0GFtIgCvzKiqF8ZEPmtZNXtfAunkiM660_vECyab79vZdkjirz4CRBXjCDr4mkDjOdA/exec"
 
 const emptyForm = {
   registerNumber: "",
